@@ -43,4 +43,4 @@
         },_this.time);
       }
     }
-  })(jQuery,window.ECar || (window.ECar = {}));
+  })(jQuery,window.ECar || (window.ECar = {}));   
