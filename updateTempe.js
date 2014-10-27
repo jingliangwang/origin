@@ -1,3 +1,5 @@
+//Author:wangjingliang 
+//QQ:546172171
 	var updateTempe={
 		init:function($this,parentTr,id){
 			var inputArr=parentTr.find('input'),
